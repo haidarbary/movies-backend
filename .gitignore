@@ -1,0 +1,77 @@
+# Binaries and other build artifacts
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# MSTest test Results
+[TestResults]/
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Others
+ClientApp/node_modules/
+node_modules/
+*.exe
+*.exe.config
+*.log
+*.db
+*.config
+*.json
+*.lock.json
+*.orig
+*.bak
+*.tmp
+*~
+*.swp
+*.user
+*.vspscc
+*.vssscc
+*.ncrunch*
+*.nuget.props
+*.pidb
+*.userprefs
+*.suo
+*.cache
+*.docstates
+*.[Cc]ache
+*.bak.*
+*.bak
+*.[Cc]ache
+*.log
+*.bak
+*.sw?
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+
